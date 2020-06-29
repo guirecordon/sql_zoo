@@ -1,4 +1,4 @@
-# This repository contains answers to all of the SQL Zoo's problems
+# This repository contains answers to the problems proposed in the SQL Zoo tutorial
 
 <br />
 <p align="center">
@@ -42,7 +42,7 @@ You'll find the page to the tutorial [here](https://sqlzoo.net/).
 
 This is not a comprehensive tutorial of SQL, but it does present some interesting challenges, especially around JOINs and self JOINs.
 
-The one on self JOINs is the most challenging and I might wright an article about it in the near future. I'll update it here onced it is published. 
+The one on self JOINs is the most challenging and I might wright an article about it in the near future. I'll post the link here onced it is published. 
 
 
 ### Built With
@@ -61,5 +61,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgements
 
-I've always had a lot of fun with SQL. This time around wasn't different, especially when working together with ezeilo-su and rodolforecordon, cracking our heads, trying to make sense of the London bus system tables!
+I've always had a lot of fun with SQL. This time around wasn't different, especially when working together with ezeilo-su and rodolforecordon, breaking our heads over the London bus-line system tables!
 
